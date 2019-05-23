@@ -1,7 +1,7 @@
 # vue-scrollclass
 スクロールして画面内に入ったらclassを付与するカスタムディレクティブ
 
-[DEMO](https://mattune.github.io/vue-scrollclass/)
+[DEMO](https://mattune.github.io/vue-scrollclass/){:target="_blank"}
 
 ## 導入方法
 1. src/directive/scrollClass.jsを使用するプロジェクトフォルダに追加する。
